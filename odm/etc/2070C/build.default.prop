@@ -1,0 +1,42 @@
+
+# InitEnv
+
+# Build.java
+ro.build.id=SP1A.210812.016
+ro.product.manufacturer=realme
+ro.product.brand=realme
+ro.product.model=RMX3242
+ro.product.name=RMX3242
+ro.product.device=RE513CL1
+ro.product.first_api_level=30
+ro.build.version.release_or_codename=12
+ro.build.version.release=12
+ro.build.version.incremental=R.202208041615
+ro.build.fingerprint=realme/RMX3242/RE513CL1:12/SP1A.210812.016/R.202208041615:user/release-keys
+ro.odm.build.fingerprint=realme/RMX3242/RE513CL1:12/SP1A.210812.016/R.202208041615:user/release-keys
+ro.odm.build.version.incremental=R.202208041615
+ro.product.odm.brand=realme
+ro.product.odm.manufacturer=realme
+ro.product.odm.model=RMX3242
+ro.product.odm.device=RE513CL1
+ro.product.odm.name=RMX3242
+ro.odm.build.date=Thu Aug  4 16:27:25 CST 2022
+ro.odm.build.date.utc=1659601645
+ro.bootimage.build.fingerprint=realme/RMX3242/RE513CL1:12/SP1A.210812.016/R.202208041615:user/release-keys
+ro.bootimage.build.version.incremental=R.202208041615
+ro.product.bootimage.brand=realme
+ro.product.bootimage.manufacturer=realme
+ro.product.bootimage.model=RMX3242
+ro.product.bootimage.device=RE513CL1
+ro.product.bootimage.name=RMX3242
+ro.bootimage.build.date=Thu Aug  4 16:27:25 CST 2022
+ro.bootimage.build.date.utc=1659601645
+ro.vendor.build.fingerprint=realme/RMX3242/RE513CL1:12/SP1A.210812.016/R.202208041615:user/release-keys
+ro.vendor.build.version.incremental=R.202208041615
+ro.product.vendor.brand=realme
+ro.product.vendor.manufacturer=realme
+ro.product.vendor.model=RMX3242
+ro.product.vendor.device=RE513CL1
+ro.product.vendor.name=RMX3242
+ro.vendor.build.date=Thu Aug  4 16:27:25 CST 2022
+ro.vendor.build.date.utc=1659601645
